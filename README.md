@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekoggy
 - 👀 I’m interested in infomation security, data science and web development
 - 🌱 I’m currently learning in Saint-Petersburg Polytechnical University
- 💞️ I’m looking to collaborate in the above areas with Russian and European companies
+- 💞️ I’m looking to collaborate in the above areas with Russian and European companies
 - 📫 How to reach me: my email - kondachkov@list.ru , my telegram - @Coggy
 
 <!---
